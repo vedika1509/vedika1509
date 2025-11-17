@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="GitHub Profile Banner" />
+</p>
 <h1 align="center">Hi, I'm Vedika Goyal 👋</h1>
 <h3 align="center">AI/ML Engineer | LLMs | RAG | Data Engineering | Agentic AI</h3>
 
